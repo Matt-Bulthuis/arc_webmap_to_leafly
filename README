@@ -1,0 +1,3 @@
+This script uses leafly to display arcgis online webmaps without having to deal with an arcgis online sign in screen. 
+This may be useful for sharing webmaps to clients or peers who lack an arcgis online account, and for allowing quicker map access in general.
+"WEBMAP ID" = the string following the "=" at the end of the arcgis online webmap URL
